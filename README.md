@@ -16,6 +16,7 @@ We'd like you to code in PHP, please also initialise a git repository (local or 
 * You might find it useful to keep notes on your thinking as we'll be asking you to talk us through your approach during the next call
 * You're welcome to use any (or no) frameworks / helper libraries you'd like
 * We're not expecting you to write tests for your code, but if you find it easier to follow a TDD approach you're welcome to
+* If you have any issues or questions about the test, please feel free to email nick@supercooldesign.co.uk and we'll get back to you as soon as possible.
 
 
 ## The task
