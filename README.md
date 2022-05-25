@@ -4,11 +4,11 @@
 
 Thanks for agreeing to run through this exercise.
 
-During it you'll be tackling a task that is based on requesting data from a JSON endpoint and transforming it into a more useful structure.
+During it you'll be tackling a task that is based on requesting data from some JSON API endpoint and then transforming it into a more useful structure.
 
 This is intended to simulate part of the real life functionality involved in integrating with 3rd party CRM's that our core events management craft plugin is based around.
 
-You should be able to finish the exercise in about an hour, please don't spend too much longer than that in total on this: it's fine to leave parts out. The aim _isn't_ for you to produce perfect, production ready code, it's for you to demonstrate how you approach a new project/problem. We're interested more in your thinking and general approach than the final output.
+You should be able to finish the exercise in about 1 - 1.5 hours, please don't spend too much longer than that in total on this: it's fine to leave parts out. The aim _isn't_ for you to produce perfect, production ready code, it's for you to demonstrate how you approach a new project/problem. We're interested more in your thinking and general approach than the final output.
 
 We'd like you to code in PHP, please also initialise a git repository (local or on github) to commit your code to.
 
@@ -20,7 +20,9 @@ We'd like you to code in PHP, please also initialise a git repository (local or 
 
 ## The task
 
-We have set up 3 JSON endpoints that contain some dummy data for "events", "instances" and "venues". In terms of a pantomime:
+We have set up 3 JSON endpoints that contain some dummy data for "events", "instances" and "venues".
+ 
+In terms of a pantomime:
 * An "event" represents the entire production - Url: [https://supercooldesign.co.uk/api/technical-test/events](https://supercooldesign.co.uk/api/technical-test/events)
 * An "instance" represents a specific performance of the pantomime - Url: [https://supercooldesign.co.uk/api/technical-test/instances](https://supercooldesign.co.uk/api/technical-test/instances)
 * A "venue" is the place a specific instance is taking place - Url: [https://supercooldesign.co.uk/api/technical-test/venues](https://supercooldesign.co.uk/api/technical-test/venues)
